@@ -1,0 +1,5 @@
+Credentials cache: API:996706C4-E884-4F6F-9BBB-AAC35B533D06
+        Principal: yschecro@42.FR
+
+  Issued                Expires               Principal
+Aug  9 11:54:40 2021  Aug 16 11:54:35 2021  krbtgt/42.FR@42.FR
